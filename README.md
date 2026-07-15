@@ -77,7 +77,7 @@ Each query is scoped to the currently logged-in user (`currentUserEmail`), and r
 
 ## Tech Stack
 
-- **Java** (Swing for the GUI)
+- **Java** Swing for the GUI
 - **JDBC** for database connectivity
 - **SQL database** for storing accounts and messages
 - Mail send/receive handled via a mail-fetching component (`MailReceiver`)
